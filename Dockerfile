@@ -20,3 +20,5 @@ EXPOSE 8080
 
 #Run the app
 CMD cd /src && nodejs ./index.js
+
+#Test
